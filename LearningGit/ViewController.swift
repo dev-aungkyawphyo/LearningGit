@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
  
         label1.text = "Hello, I'm great programmer. "
-        
+        label2.text = "I'm the best programmer."
     }
 
 
