@@ -23,7 +23,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cpy-QU-uMM">
-                                <rect key="frame" x="175" y="537" width="42" height="21"/>
+                                <rect key="frame" x="175.66666666666666" y="537" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -41,6 +41,7 @@
                     </view>
                     <connections>
                         <outlet property="label1" destination="eds-8y-MXT" id="YpR-IB-wnJ"/>
+                        <outlet property="label2" destination="cpy-QU-uMM" id="aWg-ia-Bqh"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

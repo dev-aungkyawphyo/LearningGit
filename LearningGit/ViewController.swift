@@ -10,12 +10,13 @@ import UIKit
 class ViewController: UIViewController {
     
     @IBOutlet weak var label1: UILabel!
+    @IBOutlet weak var label2: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
  
         label1.text = "Hello, I'm great programmer. "
-
+        
     }
 
 
